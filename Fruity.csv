@@ -1,0 +1,329 @@
+,Smiles,descriptor,Common Name
+0,CC(C)C(=O)C(=O)O,Train,3-Methyl-2-oxobutanoic acid
+1,CC(C)CC(=O)C(=O)O,Train,4-Methyl-2-oxovaleric acid
+2,C1=CC(=CC=C1CO)O,Validation,4-hydroxybenzyl alcohol
+3,CC=O,Train,acetaldehyde
+4,CCCC=O,Train,butyraldehyde
+5,CC(C(C)O)O,Train,"2,3-butanediol"
+6,CC(C)C(=O)C(=O)O,Train,3-Methyl-2-oxobutanoic acid
+7,CC(C)CC(=O)C(=O)O,Train,4-Methyl-2-oxovaleric acid
+8,C1=CC(=CC=C1CO)O,Validation,4-hydroxybenzyl alcohol
+9,CC=O,Train,acetaldehyde
+10,CCCC=O,Train,butyraldehyde
+11,CC(C(C)O)O,Train,"2,3-butanediol"
+12,CN(C)C,Train,trimethylamine
+13,C(CC=O)CC=O,Test,glutaraldehyde
+14,CC(=O)OCC(COC(=O)C)OC(=O)C,Test,triacetin
+15,CCCCCC=O,Validation,Hexanal
+16,CCS,Train,Ethanethiol
+17,CCC(C)(CC)O,Train,3-Methyl-3-Pentanol
+18,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2,Train,77-83-8
+19,CCOC(=O)CC(CC(=O)OCC)(C(=O)OCC)O,Validation,Triethyl Citrate
+20,CC(C)C(=O)OC(C)(CCC=C(C)C)C=C,Train,Linalyl isobutyrate
+21,CC1=CC(=O)CC(C1)(C)C,Train,Isophorone
+22,CCC(=O)C,Test,2-Butanone
+23,CC(=O)OC,Validation,Methyl Acetate
+24,CC(=C)C(=O)OC,Train,Methyl Methacrylate
+25,CNC1=CC=CC=C1C(=O)OC,Train,Methyl 2-(methylamino)benzoate
+26,CCC(CC)C(=O)O,Validation,2-Ethylbutyric Acid
+27,CCOC(=O)C1=CC=CC=C1,Validation,Ethyl Benzoate
+28,CCOC(=O)CC(=O)C1=CC=CC=C1,Train,Ethyl Benzoylacetate
+29,CC1=CCC(CC1OC(=O)C)C(=C)C,Train,Carvyl Acetate
+30,CCC(=O)OC1CC(CC=C1C)C(=C)C,Train,Carvyl propionate
+31,CCOC(=O)C(C)C,Train,Ethyl Isobutyrate
+32,CCOC(=O)C(C)O,Test,Ethyl Lactate
+33,CCCCOC(=O)C(C)C,Validation,Butyl isobutyrate
+34,CCC(CC)C=O,Train,2-Ethylbutanal
+35,C1CCC(CC1)C(=O)O,Train,Cyclohexanecarboxylic Acid
+36,COC(=O)CCC1=CC=CC=C1,Validation,Methyl 3-phenylpropionate
+37,CC(C)C(=O)OCC1=CC=CC=C1,Train,Benzyl isobutyrate
+38,CCCC(=O)OCC1=CC=CC=C1,Train,Benzyl butyrate
+39,CC(C)CC(=O)OCC1=CC=CC=C1,Test,Benzyl isovalerate
+40,CC(=O)OCCC1=CC=CC=C1,Train,Phenethyl acetate
+41,CC(C)C(=O)OCCC1=CC=CC=C1,Train,Phenethyl isobutyrate
+42,C1=CC=C(C=C1)COCC2=CC=CC=C2,Train,Benzyl ether
+43,CC(C)C(=O)OCCCC1=CC=CC=C1,Train,3-Phenylpropyl isobutyrate
+44,CC1=CC=C(C=C1)OC(=O)C(C)C,Train,p-Tolyl isobutyrate
+45,CC(=O)OCC1=CC=C(C=C1)OC,Test,4-Methoxybenzyl acetate
+46,C1=CC=C(C=C1)COC=O,Test,Benzyl formate
+47,CCCCCCCC1CCC(=O)O1,Train,Gamma-undecalactone
+48,CC1=CC=C(C=C1)C=O,Test,p-Tolualdehyde
+49,CC(C)COC(=O)CCC1=CC=CO1,Train,Isobutyl furfurylacetate
+50,CCC(=O)OCC,Train,Ethyl Propionate
+51,CCC(C)CC(=O)O,Validation,3-Methylvaleric acid
+52,CC(=O)CC(=O)OC,Train,Methyl Acetoacetate
+53,CCOC(=O)CC(=O)OCC,Train,Diethyl Malonate
+54,CCCC(=O)OCC,Train,Ethyl Butyrate
+55,CCCC(=O)OCCC,Train,Propyl butyrate
+56,CCC(=O)OCCC(C)C,Validation,Isoamyl propionate
+57,CCCCCC(=O)OCC(C)C,Validation,Isobutyl hexanoate
+58,CCCC(=O)OCCC(C)C,Validation,Isoamyl butyrate
+59,CCCCCCC(=O)OCC,Train,Ethyl Heptanoate
+60,CCCCCCCC(=O)OCC,Test,Ethyl Octanoate
+61,CCCCC(=O)CC,Train,3-Heptanone
+62,CCCOC(=O)CC,Validation,Propyl Propionate
+63,COC(=O)CCC(=O)OC,Train,Dimethyl Succinate
+64,CCCCCC(=O)OC,Validation,Methyl Hexanoate
+65,CCCC(=O)C,Train,2-Pentanone
+66,CC(C)CC(=O)C,Train,4-Methyl-2-pentanone
+67,CC(C)OC(=O)C,Validation,Isopropyl Acetate
+68,CC(=C)OC(=O)C,Test,Isopropenyl acetate
+69,COC(=O)CC(=O)OC,Validation,Dimethyl malonate
+70,CCOC(=O)CC(C)C,Train,Ethyl Isovalerate
+71,CC(C)CC(=O)CC(C)C,Train,"2,6-Dimethyl-4-heptanone"
+72,CCCCOC(=O)CCC,Train,Butyl butyrate
+73,CCCCOC(=O)CCCCCCCCC(=O)OCCCC,Train,Dibutyl Sebacate
+74,CCCOC(=O)C,Train,Propyl acetate
+75,CC(C)COC(=O)C,Train,Isobutyl Acetate
+76,CCCCCCCCCC(=O)OCC,Train,Ethyl Decanoate
+77,CCOC(=O)CCCCCCCCC(=O)OCC,Validation,Diethyl Sebacate
+78,CCCCCCCCCC(=O)OC,Test,Methyl Decanoate
+79,CCCCCC(=O)C,Validation,2-Heptanone
+80,CCCCC=O,Train,Pentanal
+81,CCCOC=O,Train,Propyl Formate
+82,CCCCCCO,Train,1-Hexanol
+83,CCCCCCCCCC(=O)C,Train,2-Undecanone
+84,CCCCCCCCOC=O,Train,Octyl formate
+85,CCCCCCCCCCCCCCO,Train,1-Tetradecanol
+86,C1=CC=C(C=C1)OC(=O)C2=CC=CC=C2O,Train,Phenyl salicylate
+87,CC1=C(C(=O)C=CO1)O,Train,Maltol
+88,COC(=O)C1=CC=CC=C1N,Train,Methyl Anthranilate
+89,CCCCOC(=O)C1=CC=CC=C1,Validation,Butyl Benzoate
+90,CCC(C)CO,Train,2-Methyl-1-Butanol
+91,CCCCOC(=O)C(C)O,Train,Butyl Lactate
+92,CC(=O)OCC1=CC=CC=C1,Validation,Benzyl Acetate
+93,CC(C)CC(=O)OCCC1=CC=CC=C1,Train,Phenylethyl isovalerate
+94,CCOC(=O)C=C,Train,Ethyl Acrylate
+95,CCC(=O)OCCC(C)CCC=C(C)C,Train,Citronellyl propionate
+96,CCCC(=O)OCCC(C)CCC=C(C)C,Train,Citronellyl butyrate
+97,CCOC(=O)C,Train,Ethyl Acetate
+98,CCOC(=O)CC(=O)C,Train,ethyl acetoacetate
+99,CCCCCCC(=O)OCC=C,Train,Allyl heptanoate
+100,CCCCCCOC(=O)C,Train,Hexyl acetate
+101,CCCCCCCCCOC(=O)C,Train,Nonyl Acetate
+102,CC(CCC=C(C)C)CCOC(=O)C,Train,Citronellyl acetate
+103,CC(=O)OC(C)(C)CC1=CC=CC=C1,Validation,Dimethylbenzylcarbinyl acetate
+104,COC1=CC(=CC=C1)OC,Train,"1,3-Dimethoxybenzene"
+105,CC1=C(C(CCC1)(C)C)C=O,Train,beta-Cyclocitral
+106,C1=CC(=CC=C1CCO)O,Train,2-(4-Hydroxyphenyl)ethanol
+107,CCC1=CN=CC=C1,Validation,3-Ethylpyridine
+108,COCC1=CC=CC=C1,Train,Benzyl Methyl Ether
+109,CCOCC1=CC=CC=C1,Test,(Ethoxymethyl)benzene
+110,CCCCC(=O)OCC,Train,Ethyl pentanoate
+111,CCOC(=O)CCC(=O)C,Validation,Ethyl Levulinate
+112,CCCC(=O)OCC(C)C,Train,Isobutyl butyrate
+113,CCCCCC(=O)OCCCCC,Train,Pentyl Hexanoate
+114,CCCCCOC(=O)CCC,Test,Pentyl Butyrate
+115,CCC(=O)OCC(C)C,Train,Isobutyl propionate
+116,CC(C)COC=O,Train,Isobutyl Formate
+117,CCCCCC(C)O,Train,2-Heptanol
+118,CC(C)C(=O)OC,Validation,Methyl Isobutyrate
+119,CCC(=O)OC,Train,Methyl Propionate
+120,CC(C)CC(=O)OC,Train,Methyl isovalerate
+121,CC(=CCO)C,Train,3-Methyl-2-Buten-1-Ol
+122,CCCOC(=O)CC(C)C,Test,Propyl Isovalerate
+123,CCC(C)CCO,Train,3-Methyl-1-Pentanol
+124,CCCC(=O)CC,Train,3-Hexanone
+125,CC(C)CC(=O)OCC(C)C,Train,Isobutyl Isovalerate
+126,CCCCOC(=O)CC(=O)C,Test,Butyl acetoacetate
+127,CC(=O)COC(=O)C,Test,Acetoxyacetone
+128,CCCCN=C=S,Train,Butyl isothiocyanate
+129,CCCCOC=O,Train,Butyl Formate
+130,CC(C)C(C)O,Train,3-Methyl-2-Butanol
+131,COC(=O)C1=CC=CO1,Validation,Methyl 2-furoate
+132,CCC(C=C)O,Train,1-Penten-3-Ol
+133,CC(C)C(=O)OC(C)C,Test,Isopropyl Isobutyrate
+134,CC1=CC(=CC=C1)C=O,Train,3-Methylbenzaldehyde
+135,CC(=O)OC1CCCCC1,Train,Cyclohexyl Acetate
+136,CC(=O)OCC1=CC=CO1,Test,Furfuryl acetate
+137,CCCC(=O)OC,Train,Methyl butyrate
+138,CC(COC(=O)C)OC(=O)C,Validation,"1,2-Diacetoxypropane"
+139,CCCCC(=O)OC,Train,Methyl Valerate
+140,CCCCCOC(=O)CC,Train,Pentyl propionate
+141,CCSC,Test,Ethyl methyl sulfide
+142,CSSC,Train,Dimethyl disulfide
+143,CCCCCC(=O)OCCC,Train,Propyl Hexanoate
+144,CCCCCC(=O)OCCCC,Train,Butyl hexanoate
+145,CC(C)CCCC(=O)O,Train,5-Methylhexanoic Acid
+146,CCCCCOC(=O)C,Train,Amyl acetate
+147,CCCCCCCCCCCCCCCC(=O)OCC,Train,Ethyl Palmitate
+148,CCCCCCCC(C)O,Train,2-Nonanol
+149,CC(=O)OCC1CCCO1,Train,Tetrahydrofurfuryl Acetate
+150,CCC(=O)OC(C)C,Train,Isopropyl Propionate
+151,CCCCCOC=O,Test,Pentyl formate
+152,CCCOC(=O)C(C)C,Train,Propyl Isobutyrate
+153,CC(C)CCOC(=O)CC(C)C,Validation,Isoamyl Isovalerate
+154,CCOC(=O)CCCCCCCCC=C,Train,Ethyl 10-Undecenoate
+155,CCCCCC1CCCC(=O)O1,Test,Delta-Decalactone
+156,CCCCCCC1CCC(=O)O1,Train,gamma-Decalactone
+157,CC(=C)CCO,Train,3-Methyl-3-Buten-1-Ol
+158,CCC(C)C(=O)OC,Test,Methyl 2-methylbutyrate
+159,CCCCCCCC(=O)CC,Train,3-Decanone
+160,CC(C)OC(=O)C1=CC=CC=C1,Train,Isopropyl Benzoate
+161,CCCCCCCC(=O)OCCCCCC,Train,Hexyl octanoate
+162,CC(=CCOC(=O)C)C,Train,Prenyl acetate
+163,CC1=CC=C(C=C1)C(C)(C)O,Train,2-(4-methylphenyl)propan-2-ol
+164,C1=CN(C=C1)CC2=CC=CO2,Train,1-Furfurylpyrrole
+165,CC(C=CC1=CC=CC=C1)O,Train,4-Phenyl-3-buten-2-ol
+166,C1CCC(C1)S,Train,Cyclopentanethiol
+167,CCCCCCCCC(=O)OC,Train,Methyl Nonanoate
+168,C=CCOC(=O)CC1=CC=CC=C1,Train,Allyl phenylacetate
+169,CCOC(=O)CCC1=CC=CC=C1,Validation,Ethyl 3-phenylpropionate
+170,CCCCCCCC(=O)OCCC(C)C,Test,Isopentyl octanoate
+171,CCCC(=O)OCC=C,Test,Allyl butyrate
+172,CCCCOC(=O)CCC(=O)C,Train,Butyl levulinate
+173,CC1=CCC(CC1)C(C)(C)OC=O,Train,Terpinyl formate
+174,CC(C)COC1=CC2=CC=CC=C2C=C1,Validation,2-Isobutoxynaphthalene
+175,CCCCCC(=O)OCCC(C)C,Train,Isopentyl hexanoate
+176,CCCCCCCCC1CCC(=O)O1,Train,gamma-Dodecalactone
+177,CCCCCC(=O)OC(C)C,Train,Isopropyl Hexanoate
+178,CCCCCCOC(=O)C(C)C,Test,Hexyl isobutyrate
+179,CCCCCC(C=C)OC(=O)C,Validation,1-Octen-3-yl acetate
+180,CCC(C)COC(=O)C(C)CC,Train,2-METHYLBUTYL 2-METHYLBUTYRATE
+181,CCCCCCOC(=O)CCC,Validation,Hexyl Butyrate
+182,C=CCOC(=O)CCC1CCCCC1,Train,2705-87-5
+183,CC(=O)NC1=CC=CC=C1C(=O)OC,Train,Methyl 2-Acetamidobenzoate
+184,CC1=CC(=O)CC1,Test,3-Methyl-2-Cyclopenten-1-One
+185,CC(C)CC(=O)OCC=C,Train,Allyl Isovalerate
+186,CCOC(=O)C1CCCCC1,Train,Ethyl cyclohexanecarboxylate
+187,CCCCCC1=CC=CO1,Train,2-Pentylfuran
+188,CCOC(CC(C)C)OCC,Train,"1,1-Diethoxy-3-Methylbutane"
+189,CCCC(=O)C(=O)C,Train,"2,3-Hexanedione"
+190,CCCCCCCC(=O)OCC=C,Train,Allyl octanoate
+191,C1CCC(CC1)OC=O,Train,Cyclohexyl Formate
+192,CCCCC1=CC=CO1,Validation,2-Butylfuran
+193,CCCCC(C)C(=O)O,Train,2-Methylhexanoic Acid
+194,COC(=O)C1CCCCC1,Train,Methyl cyclohexanecarboxylate
+195,CCCCCC1=CC=CS1,Validation,2-Pentylthiophene
+196,CC(=O)CCCCCC=C,Train,8-Nonen-2-one
+197,CC(=CCOC(=O)C1=CC=CC=C1)C,Train,Prenyl benzoate
+198,CCCCCCC(=O)OCCCC,Train,Butyl Heptanoate
+199,CCCCCCCCCCC(=O)C,Train,2-Dodecanone
+200,CCCCCCOC(=O)CCCCC,Test,Hexyl Hexanoate
+201,CCCCCC(=O)OCC1=CC=CC=C1,Train,Benzyl Hexanoate
+202,CC1=NC2=CC=CC=C2N=C1,Train,2-Methylquinoxaline
+203,CCC(C)C(=O)OCC,Train,Ethyl 2-methylbutyrate
+204,CC(C)C(=O)C(=O)C,Train,Acetyl isobutyryl
+205,CCCCOC(=O)C1=CC=CC=C1N,Train,Butyl Anthranilate
+206,CC(C)COC(=O)C1=CC=CC=C1N,Train,Isobutyl Anthranilate
+207,CCCCCCC(=O)OCC(C)C,Train,Isobutyl heptanoate
+208,CCCCCCOC(=O)C(C)CC,Train,Hexyl 2-methylbutanoate
+209,CCCC(=O)OC(C)(C)CC1=CC=CC=C1,Train,10094-34-5
+210,CCCCC(=O)C(C)C,Train,2-Methyl-3-Heptanone
+211,CC(C)CC(=O)C(=O)C,Train,"5-Methylhexane-2,3-dione"
+212,CCCCCC(C=C)OC(=O)CCC,Train,1-Octen-3-yl butyrate
+213,CCC1=NC=C(N=C1CC)C,Train,"2,3-Diethyl-5-Methylpyrazine"
+214,CCCCCCCCCCCCCCC(=O)C,Train,Hexadecan-2-one
+215,CCC(=O)OCC1=CC=CC=C1,Validation,Benzyl Propionate
+216,CCC(=O)OCCC1=CC=CC=C1,Validation,2-Phenylethyl propionate
+217,CC(=O)CC1=CC=C(C=C1)OC,Train,4-Methoxyphenylacetone
+218,CCCC(C)C=O,Validation,2-Methylpentanal
+219,CCCC(=O)CCC,Train,4-Heptanone
+220,CCOC(=O)CCC(=O)OCC,Train,Diethyl Succinate
+221,CCCCCCCCC(=O)OCC,Train,Ethyl Nonanoate
+222,CC(C)CCO,Train,3-Methyl-1-butanol
+223,CCCCCC(=O)OCC,Validation,Ethyl caproate
+224,CCCCCC(=O)OCC=C,Train,Allyl hexanoate
+225,CCCCOC(=O)C,Train,Butyl acetate
+226,CC(C)CCOC(=O)C,Test,Isoamyl Acetate
+227,CCCC(C)OC(=O)CCC,Train,2-Pentyl butyrate
+228,CCOC(=O)C1=CC=C(C=C1)OC,Test,Ethyl 4-methoxybenzoate
+229,CC(C)C(=O)OCCC(C)CCC=C(C)C,Train,Citronellyl isobutyrate
+230,CC(C)C(=O)OCCOC1=CC=CC=C1,Train,Phenoxyethyl isobutyrate
+231,CC(=O)CCC1=CC=C(C=C1)OC,Train,4-(4-Methoxyphenyl)-2-butanone
+232,CCCCCCCCCCCC(=O)OCCCC,Train,Butyl laurate
+233,CC(CCC=C(C)C)C=O,Train,"2,6-Dimethyl-5-heptenal"
+234,CC(=CC=O)C,Test,3-Methyl-2-butenal
+235,CCCCCCCCOC(=O)C(C)C,Train,Octyl isobutyrate
+236,CCCCOC(=O)CCCCCCCCC=C,Train,Butyl undec-10-enoate
+237,CCCCCCCCOC(=O)CCC,Validation,Octyl butyrate
+238,CC(=CCCC(C)(C=C)OC=O)C,Train,Linalyl formate
+239,CC(C)COC(=O)C1=CC=CC=C1,Train,Isobutyl benzoate
+240,COC1=CC=C(C=C1)COC=O,Train,4-Methoxybenzyl formate
+241,CCCC(=O)OCCC(C)CCCC(=C)C,Test,Rhodinyl butyrate
+242,CCCCCCCCOC(=O)CC,Train,Octyl propionate
+243,CC1=C(C(CCC1)(C)C)CC=O,Test,"2,6,6-Trimethyl-1-cyclohexene-1-acetaldehyde"
+244,CCCCC(=O)OCCCC,Train,Butyl pentanoate
+245,COC1=CC=CC=C1C(=O)OC,Test,Methyl 2-methoxybenzoate
+246,CCC(=O)OCC1=CC=CO1,Train,Furfuryl propionate
+247,CCCC(=O)OCC1=CC=CO1,Train,Furfuryl Butyrate
+248,CCSC(=O)C,Train,S-Ethyl ethanethioate
+249,CCC(=O)OCC1CCCO1,Train,Tetrahydrofurfuryl propionate
+250,CCCC(=O)OC(C)C,Train,Isopropyl butyrate
+251,CCC1C(=C(C(=O)O1)O)C,Train,698-10-2
+252,CCCCCCC1CCCC(=O)O1,Test,delta-Undecalactone
+253,CC(=CCCC(=CCCC(=CCCC(=O)C)C)C)C,Test,Farnesylacetone
+254,CCCCCCC(=O)CC,Train,3-Nonanone
+255,CC(CCC=C(C)C)CC(=O)OC,Train,Methyl citronellate
+256,CCCC(CC(=O)OCC)O,Validation,Ethyl 3-hydroxyhexanoate
+257,CCCCCCCCOC(=O)CCCCCCC,Validation,Octyl octanoate
+258,CCCCCCCOC(=O)C(C)C,Test,Heptyl 2-methylpropanoate
+259,CCC(=O)OCC=C,Test,Allyl Propionate
+260,CC1C(=O)C(=C(O1)C)OC,Train,4077-47-8
+261,CC1C(=O)C(=C(O1)C)OC(=O)C,Train,4166-20-5
+262,C=CCOC(=O)C1=CC=CO1,Validation,Allyl 2-furoate
+263,CCC(=O)OC1CCCCC1,Test,Cyclohexyl Propionate
+264,COC1=C(C=C(C=C1)C=C)OC,Train,"3,4-Dimethoxystyrene"
+265,CC(=C(C)C(=O)OCC1=CC=CC=C1)C,Train,"benzyl 2,3-dimethylbut-2-enoate"
+266,C=CCOC(=O)CCCC1CCCCC1,Validation,Allyl Cyclohexanebutyrate
+267,C=CCOC(=O)CCCCCC1CCCCC1,Test,2-Propenyl cyclohexanehexanoate
+268,C=CCOC(=O)CCCCC1CCCCC1,Validation,7493-68-7
+269,CCCCCCCCC(=O)OCC=C,Train,Allyl Nonanoate
+270,C=CCCCCCCCCC(=O)OCC=C,Test,Allyl undecylenate
+271,CCCCCCC(=O)OCCCCC,Train,Pentyl heptanoate
+272,CCC(=O)OCC1=CC=C(C=C1)OC,Train,Anisyl Propionate
+273,CCCCCCCC(=O)OC(C)(CCC=C(C)C)C=C,Train,Linalyl octanoate
+274,CC(C)C(=O)OC(C)(C)CCC1=CC=CC=C1,Test,10031-71-7
+275,CCCC(=O)OC(CC)C1=CC=CC=C1,Test,1-Phenylpropyl butyrate
+276,CCC(CC)COC(=O)C,Train,2-Ethylbutyl acetate
+277,CCOC(=O)CCC1=CC=CO1,Train,Ethyl 3-(2-furyl)propionate
+278,CCOC(=O)CCCC1=CC=CC=C1,Validation,Ethyl 4-phenylbutanoate
+279,CCCCCCC(OC)OC,Validation,"1,1-Dimethoxyheptane"
+280,CCCCCCOC(=O)CC(C)C,Train,Hexyl isovalerate
+281,CCCCCCC1CC(CO1)OC(=O)C,Train,2-Hexyl-4-acetoxytetrahydrofuran
+282,CCOC(=O)CCC1CCCCC1,Train,Ethyl 3-cyclohexylpropanoate
+283,CCCCCCCCC#CC(=O)OC,Train,Methyl 2-undecynoate
+284,CCOC(=O)CCSC,Validation,Ethyl 3-(methylthio)propionate
+285,CC(C)CC(=O)OCC1=CC=CO1,Train,Furfuryl isovalerate
+286,CC1C(=O)CCS1,Train,13679-85-1
+287,CCCCCC(=O)C1=CC=CO1,Train,2-Hexanoylfuran
+288,C=CCCCCCCCC(=O)O,Train,9-Decenoic acid
+289,CC1=CCC(CC1)C(C)(C)OC(=O)C2=CC=CC=C2N,Train,alpha-Terpinyl anthranilate
+290,CC1=CCC(CC1)C(=C)COC(=O)C,Train,Limonen-10-yl acetate
+291,CCCCOC(=O)C(C)CC,Train,Butyl 2-methylbutyrate
+292,CCCCCCC1CCCCC(=O)O1,Train,7-Hexyloxepan-2-one
+293,CC(C)CC(=O)OC(C)C,Train,Isopropyl isovalerate
+294,CCCCC(=O)OCC1=CC=CO1,Train,furan-2-ylmethyl pentanoate
+295,CCNC1=CC=CC=C1C(=O)OCC,Test,Ethyl 2-(ethylamino)benzoate
+296,CC1CCC(C(=O)C1)C(C)(C)S,Train,p-Mentha-8-thiol-3-one
+297,CCCCCCCC(=O)OCC1=CC=CO1,Train,Furfuryl octanoate
+298,CCOC(=O)C1=C(OC=C1)C2=CC=CC=C2,Train,2-Phenyl-3-carbethoxyfuran
+299,CC(=O)C1(CCCCC1)OC(=O)C,Test,1-Acetylcyclohexyl acetate
+300,CCOC(=O)C(C)CC=C,Test,Ethyl 2-methyl-4-pentenoate
+301,CCOC(=O)C(C)C=C=C,Test,"Ethyl 2-methyl-3,4-pentadienoate"
+302,CCCC(=O)OC(C)(CCC=C(C)C)C=C,Train,Linalyl butyrate
+303,CCOC(=O)C(C(C(=O)OCC)O)O,Train,Diethyl tartrate
+304,CC(C1=CC=CC=C1)OC(=O)C,Train,1-Phenylethyl acetate
+305,COC(C1=CC=CC=C1)OC,Train,Benzaldehyde dimethyl acetal
+306,CCCCCOC(=O)CCCC,Train,Pentyl valerate
+307,CCC(C)COC(=O)CC(C)C,Train,2-Methylbutyl isovalerate
+308,C1CC(OC1)CCCC2=CC=CC=C2,Validation,2-(3-Phenylpropyl)tetrahydrofuran
+309,CCOC(=O)CC(C)O,Train,Ethyl 3-hydroxybutyrate
+310,CC(C)C(=O)OCC1=CC2=C(C=C1)OCO2,Train,Piperonyl isobutyrate
+311,CCCCCCCOC(=O)CCC,Train,Heptyl butyrate
+312,CC(C)C1=CC=C(C=C1)CCC=O,Train,7775-00-0
+313,CCCC(C)C(=O)OCC,Train,Ethyl 2-methylpentanoate
+314,CC(C)CC(C(=O)OC)O,Test,Methyl 2-hydroxy-4-methylpentanoate
+315,CC1=CCC(CC1)(C)C(=O)C,Train,"4-Acetyl-1,4-dimethyl-1-cyclohexene"
+316,COC(=O)CCCSC,Test,Methyl 4-(methylthio)butyrate
+317,CCCCCCCCOC(=O)C1=CC=CC=C1,Train,Octyl benzoate
+318,CCCCC(=O)OCCC,Train,Propyl pentanoate
+319,C1=CC=C(C=C1)C(=O)NC2=CC=CC=C2C(=O)O,Train,2-(Benzoylamino)benzoic acid
+320,CCCCCOC(=O)C1=CC=CO1,Train,Amyl 2-furoate
+321,CCOC(=O)CCC=C,Train,Ethyl 4-pentenoate
+322,CC1=CC=C(C=C1)COC(=O)C,Train,4-Methylbenzyl acetate
+323,CCCCCCCCCC(=O)OCCC(C)C,Validation,Isoamyl decanoate
+324,CCCCCC(=O)SC,Train,S-Methyl hexanethioate
+325,CCOC(=O)CSC,Train,Ethyl (methylthio)acetate
+326,CCCCCCOC,Validation,1-Methoxyhexane
+327,CC(=C)CCOC(=O)C,Test,3-Methyl-3-butenyl acetate

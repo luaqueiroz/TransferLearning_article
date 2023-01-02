@@ -1,0 +1,139 @@
+,Smiles,descriptor,Common Name
+0,CCCC=O,Train,butyraldehyde
+1,CCCC=O,Train,butyraldehyde
+2,CCCCCCCC=O,Train,Octanal
+3,CCCCCCCCCC(=O)O,Train,Decanoic acid
+4,CC(=CCCC(C)(C=C)O)C,Test,Linalool
+5,CC1CCC(CC1)C(C)(C)OC(=O)C,Train,Dihydroterpinyl acetate
+6,CC1=CCC(C=C1)C(C)C,Train,Alpha-Phellandrene
+7,CC1=CC=C(CC1)C(C)C,Train,Alpha-Terpinene
+8,CC1=CC=C(C=C1)C(C)C,Train,P-Cymene
+9,CCCCC(CC)CO,Test,2-Ethylhexan-1-ol
+10,CC(=O)CC(=O)OC,Test,Methyl Acetoacetate
+11,CC(C)CCCC(C)CCO,Train,"3,7-Dimethyl-1-octanol"
+12,CC(CCC=C(C)C)CC=O,Train,Citronellal
+13,CCCCCCC=O,Train,Heptanal
+14,COC(=O)CCCCCCCCC=C,Train,Methyl 10-Undecenoate
+15,CCCCCCCCCCOC(=O)C,Validation,Decyl Acetate
+16,CCCCCCCCCC=O,Validation,Decanal
+17,CCCCCCCCCCCO,Train,1-Undecanol
+18,C=CCCCCCCCCCO,Validation,10-Undecen-1-Ol
+19,CCCCCCCCCCC=O,Train,Undecanal
+20,C=CCCCCCCCCC=O,Train,10-Undecenal
+21,CCCCCCCCCCCC=O,Test,Dodecanal
+22,CC(=CCCC(C)(C=C)OC(=O)C)C,Validation,Linalyl Acetate
+23,CC(CCCC(=C)C)CCOC(=O)C,Train,Rhodinyl acetate
+24,CC(CCC=C(C)C)CCO,Test,Citronellol
+25,CC(CCC=C(C)C)CCOC(=O)C,Train,Citronellyl acetate
+26,CC(=CCCC(=O)C)C,Train,6-Methyl-5-Hepten-2-One
+27,CC(=CCCC(=CCCC(=C)C=C)C)C,Train,(E)-.beta.-Farnesene
+28,CCC1=CN=CC=C1,Train,3-Ethylpyridine
+29,CC(C)(CCCC(=C)C=C)O,Train,Myrcenol
+30,CC1=CCC(=C(C)C)CC1,Validation,Terpinolene
+31,CCCCCC(CC)O,Validation,3-Octanol
+32,CCCCN=C=S,Train,Butyl isothiocyanate
+33,CC(C)C(=O)OC(C)C,Train,Isopropyl Isobutyrate
+34,CCSC,Test,Ethyl methyl sulfide
+35,CSSC,Train,Dimethyl disulfide
+36,CCCCCCCC(C)O,Test,2-Nonanol
+37,CCCCCCCC(=O)CC,Train,3-Decanone
+38,CC(=O)OC(C)(C)CCCC(=C)C=C,Train,Myrcenyl acetate
+39,CC1=CC=C(C=C1)C(C)(C)O,Train,2-(4-methylphenyl)propan-2-ol
+40,C1CCC(C1)S,Train,Cyclopentanethiol
+41,CC1=CCC(CC1)C(C)(C)OC=O,Test,Terpinyl formate
+42,CC(C)C12CCC(=C)C1C2,Train,Sabinene
+43,CC1CC(=O)C=C2C1(CC(CC2)C(=C)C)C,Train,4674-50-4
+44,CC(CC=O)CC(C)(C)C,Train,"3,5,5-Trimethylhexanal"
+45,CC1=CCC(CC1)C(=C)C,Validation,Dipentene
+46,CCCCCCCCCCC(=O)C,Test,2-Dodecanone
+47,CCCCCCCCCC(OC)OC,Train,"1,1-Dimethoxydecane"
+48,CCCCCCCCCCCCC=O,Train,Tridecanal
+49,CC1=CCC2C(C1)C2(C)C,Train,3-Carene
+50,CC1=CCC(CC1)(C(C)CCC=C(C)C)O,Train,beta-Bisabolol
+51,CCC1=NC=C(N=C1CC)C,Train,"2,3-Diethyl-5-Methylpyrazine"
+52,CC(CCCC(C)(C)O)C=C,Train,Dihydromyrcenol
+53,CCCCCCCCC=O,Validation,Nonanal
+54,CCCCCCCCCCCCCC=O,Train,Tetradecanal
+55,CC1(C2CC=C(C1C2)CCO)C,Test,Nopol
+56,CC(CCC=C(C)C)C=O,Train,"2,6-Dimethyl-5-heptenal"
+57,CCCCCCCCCC(C)C=O,Train,2-Methylundecanal
+58,CC(=CCCC(C)(C=C)OC=O)C,Train,Linalyl formate
+59,CCCC(CC(=O)OCC)O,Validation,Ethyl 3-hydroxyhexanoate
+60,CCCCCCCC(OC)OC,Train,"1,1-Dimethoxyoctane"
+61,CCCCCC=CCCC=O,Train,Dec-4-enal
+62,CCC(=O)OC(C)(C)C1CCC(=CC1)C,Train,Terpinyl propionate
+63,CC1=CC=C(C=C1)C(=C)C,Train,1195-32-0
+64,C[C@H](CCC=C(C)C)CC=O,Train,(R)-(+)-Citronellal
+65,CCOC(=O)CSC,Train,Ethyl (methylthio)acetate
+66,CC(C)CCCC(C)(C=C)O,Validation,"3,7-Dimethyl-1-octen-3-ol"
+67,CCCCCCCCC(OC)OC,Validation,"1,1-Dimethoxynonane"
+68,CCCCCC(CC)OC(=O)CCC,Train,octan-3-yl butanoate
+69,C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2C(=C)CC3)C(C)C,Train,beta-Cubebene
+70,CC(=CCCC1=CCC(CC1)C=O)C,Train,Myrac aldehyde
+71,CC(=CCC(C)(C)C(OC)OC)C,Train,67674-46-8
+72,CC(=O)OC1C(C2CCC1(C2)C)(C)C,Test,Fenchyl acetate
+73,CC1CC(OC(O1)C)(C)C2=CC=CC=C2,Train,"2,4,6-Trimethyl-4-phenyl-1,3-dioxane"
+74,CC1COC(O1)(C)CCC=C(C)C,Test,68258-95-7
+75,CC(C)CCCC(C)CC=O,Train,"3,7-Dimethyloctanal"
+76,CC1=CCC(CC1)C(C)(C)OC(=O)C,Validation,Alpha-Terpinyl Acetate
+77,CCCCC(=O)OC(C)(CCC=C(C)C)C=C,Train,Linalyl valerate
+78,CC(=O)CCCCCCCC=C,Train,10-undecen-2-one
+79,CC1=CCC(CC1)C2(CO2)C,Validation,2-Methyl-2-(4-methyl-3-cyclohexen-1-yl)oxirane
+80,C=CCCCCCCCCCC(=O)O,Validation,11-Dodecenoic acid
+81,CCCCCCCC(C=C)O,Test,1-Decen-3-ol
+82,CC(C)CC(=O)OC(C)(CCC=C(C)C)C=C,Train,Linalyl isovalerate
+83,CC(=C)C1CCC2(CCC(=O)CC2(C1)C)C,Train,"4a,8a-dimethyl-7-(prop-1-en-2-yl)octahydronaphthalen-2(1h)-one"
+84,CC1CCC=C2C1(CC(CC2)C(=C)C)C,Train,Valencen
+85,CC1=CC[C@@H](CC1)C(=C)C,Train,D-Limonene
+86,CC1=CC[C@@H](CC1)C(C)(C)O,Train,(+)-alpha-Terpineol
+87,C[C@@H](CCC=C(C)C)CC=O,Train,(-)-Citronellal
+88,CCOC(=O)C(C)S,Train,Ethyl 2-mercaptopropionate
+89,CCC(C)C(=O)OCCC(C)C,Train,3-Methylbutyl 2-methylbutanoate
+90,CC1=CCC(CC1)C(=C)CO,Validation,"1,8-P-Menthadien-9-ol"
+91,CC(C=C(C)CCC=C(C)C)OC(=O)C,Test,91418-25-6
+92,CC/C=C/CC/C=C/C=O,Train,"2,6-Nonadienal"
+93,C/C=C/C=C/C=O,Train,"2,4-Hexadienal"
+94,CC(=CCC/C(=C/CO)/C)C,Train,Geraniol
+95,CC(=CCC/C(=C/C=O)/C)C,Validation,Citral
+96,CC(=CCC/C(=C\CO)/C)C,Train,nerol
+97,CC(=CCC/C(=C\COC(=O)C)/C)C,Train,Neryl acetate
+98,CC(=CCC/C(=C\CCC(=O)C)/C)C,Test,Nerylacetone
+99,CC(=CCC/C(=C/C=C/C(=O)C)/C)C,Train,Pseudoionone
+100,CC(=CCC/C(=C/C/C=C(\C)/C=C)/C)C,Validation,alpha-Farnesene
+101,C/C(=C\C/C=C(\C)/C=C)/CC/C=C(\C)/C=O,Train,Alpha-Sinensal
+102,CC(=CC/C=C(\C)/C=C)C,Train,Ocimene
+103,CCCCC/C=C/C=C/C=O,Train,"(2E,4E)-deca-2,4-dienal"
+104,CCCCCCCC/C=C/C=O,Test,2-Undecenal
+105,CCCCCCCCC/C=C/C=O,Train,trans-2-Dodecenal
+106,CCCCCCCCCC/C=C/C=O,Train,2-Tridecenal
+107,CCCCCCCCCCC/C=C/C=O,Train,2-Tetradecenal
+108,CCCC/C=C/CCCCCCCC=O,Train,9-tetradecenal
+109,CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,Test,Nerolidol
+110,CC(=CCC/C(=C\CCC(=C)C=C)/C)C,Train,beta-cis-farnesene
+111,CCCCC/C=C/CO,Train,trans-2-Octen-1-Ol
+112,CC(=CC/C=C(/C)\C=C)C,Train,(Z)-Beta-Ocimene
+113,CC1COC(O1)/C=C(\C)/CCC=C(C)C,Train,Citral propylene glycol acetal
+114,CCCCCC1C(O1)/C=C/C=O,Validation,"trans-4,5-epoxy-2(E)-Decenal"
+115,CC1=CC/C(=C(\C)/CCC=C(C)C)/CC1,Train,(E)-gamma-Bisabolene
+116,CCCCCC/C=C\C=O,Train,cis-2-Nonenal
+117,CCCCC/C=C\CCC=O,Test,cis-4-Decenal
+118,CCCCC/C=C/C=C/CO,Test,"2,4-Decadien-1-ol"
+119,CCCCCC/C=C/C(=O)C,Validation,3-Decen-2-one
+120,CC(=CCC/C(=C/CCC(C)(C=C)OC(=O)C)/C)C,Train,Nerolidyl acetate
+121,CCCCCCC/C=C/CO,Train,trans-2-Decen-1-ol
+122,CCCCCCC/C=C/C=C/C=O,Train,"(2E,4E)-Dodeca-2,4-dienal"
+123,CCCCCCC/C=C/C(=O)OCCCC,Train,Butyl 2-decenoate
+124,CCCCCCCCCOC(=O)CC(C)C,Train,Nonyl isovalerate
+125,CCOC(/C=C(/C)\CCC=C(C)C)OCC,Validation,Neral diethyl acetal
+126,C[C@]1(CC[C@@H](C(O1)(C)C)O)C=C,Train,UNII-P6B6JD2N2Z
+127,CC(C)CC(=O)OC/C=C(/C)\CCC=C(C)C,Train,Neryl isovalerate
+128,CCCCC/C=C\C/C=C/C=C/C=O,Train,"(2E,4E,7Z)-trideca-2,4,7-trienal"
+129,CCC[C@@H](CCC(C)OC)C(C)C,Validation,"cis-limonene 1,2 oxide"
+130,C/C=C/CCCCCCCC=O,Train,9-Undecenal
+131,C/C=C(/C)\C1CCC(O1)(C)C,Train,Ocimen quintoxide
+132,CC/C=C\C/C=C/C=C/C=O,Train,"(2E,4E,7Z)-deca-2,4,7-trienal"
+133,CCCCCCCC/C=C/CCC=O,Test,(4E)-tridec-4-enal
+134,CCOC(=O)C(=C)O,Train,SCHEMBL36941
+135,C/C(=C\C=O)/CCC1CC1(C)C,Train,SCHEMBL18338905
+136,CC(CCC=C(C)C)CC(C)(C)O,Train,"2,4,8-Trimethyl-7-Nonen-2-Ol"
+137,CC(C)C1CCC(CC1=O)(C)S,Test,SCHEMBL11450684
